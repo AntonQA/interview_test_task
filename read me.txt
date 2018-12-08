@@ -1,0 +1,7 @@
+To run the project please do the following steps:
+ 1. Copy project folder to your PC and unzip
+ 2. In command line navigate to "\SSLs_project" and run "npm install"
+ 3. In command line navigate to place where "conf.js" file is placed (in our case "\SSLs_project\src")
+ 4. Run "protractor conf.js"
+
+Note: You can run each test separately by comment/uncomment needed one in"conf.js" file
